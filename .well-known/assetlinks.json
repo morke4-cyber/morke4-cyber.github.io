@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.morke4_cyber.twa",
+        "sha256_cert_fingerprints": ["0B:24:C8:F9:A3:94:23:B3:CE:96:C4:F7:1B:C0:A9:96:2A:DD:B7:7B:D4:22:30:C1:05:F9:4C:BC:2C:FB:B5:3E"]
+      }
+    }]
